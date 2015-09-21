@@ -9,7 +9,7 @@
    * [Output Devices](Hardware/hardware_output_devices.md)
    * [Storage Devices](Hardware/hardware_storage_devices.md)
 * [Operating Systems](Operating_Systems/operating_systems.md)
-   * [Desktop Operating Systems](OS_desktop_operating_systems.md)
+   * [Desktop Operating Systems](Operating_Systems/OS_desktop_operating_systems.md)
    * [Mobile Operating Systems](OS_mobile_operating_systems.md)
 * [Networking](networking.md)
 * [Acronyms](acronyms.md)
