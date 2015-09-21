@@ -9,4 +9,5 @@
 * [Environmental](environmental.md)
 * [Processing](processing.md)
    * Getting Started
+   * Built-in Variables
 
