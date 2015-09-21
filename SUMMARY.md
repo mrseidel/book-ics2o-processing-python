@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Hardware](hardware.md)
+* [Hardware](hardwaremd.md)
 * [Operating Systems](operating_systems.md)
    * Desktop Operating Systems
    * Mobile Operating Systems
