@@ -6,7 +6,7 @@
    * [Processor](hardware_processor.md)
    * [Memory](hardware_memory.md)
 * [Operating Systems](operating_systems.md)
-   * Desktop Operating Systems
+   * [Desktop Operating Systems](OS_desktop_operating_systems.md)
    * Mobile Operating Systems
 * [Networking](networking.md)
 * [Acronyms](acronyms.md)
