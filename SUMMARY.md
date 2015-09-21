@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Hardware](hardware.md)
-* Operating Systems
+* [Operating Systems](operating_systems.md)
 
