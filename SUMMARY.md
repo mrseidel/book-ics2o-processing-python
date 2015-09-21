@@ -5,7 +5,7 @@
    * [Motherboard](hardware_motherboard.md)
    * [Processor](hardware_processor.md)
    * [Memory](hardware_memory.md)
-   * Input Devices
+   * [Input Devices](hardware_input_devices.md)
    * Output Devices
 * [Operating Systems](operating_systems.md)
    * [Desktop Operating Systems](OS_desktop_operating_systems.md)
