@@ -5,4 +5,5 @@
 * [Operating Systems](operating_systems.md)
 * [Networking](networking.md)
 * [Acronyms](acronyms.md)
+* Ethics
 
