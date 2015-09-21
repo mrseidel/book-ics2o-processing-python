@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Hardware](hardwaremd.md)
    * Motherboard
+   * CPU (Central Processing Unit)
 * [Operating Systems](operating_systems.md)
    * Desktop Operating Systems
    * Mobile Operating Systems
