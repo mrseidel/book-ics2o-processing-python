@@ -8,4 +8,5 @@
 * [Ethics](ethics.md)
 * [Environmental](environmental.md)
 * [Processing](processing.md)
+   * Getting Started
 
