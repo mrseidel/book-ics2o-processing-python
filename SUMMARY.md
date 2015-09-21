@@ -15,7 +15,7 @@
 * [Acronyms](acronyms.md)
 * [Ethics](ethics.md)
 * [Environmental](environmental.md)
-* [Processing](processing.md)
+* [Processing](Processing/processing.md)
    * [Getting Started](processing_getting_started.md)
    * [Built-in Variables](processing_built-in_variables.md)
    * [Custom Variables](processing_custom_variables.md)
