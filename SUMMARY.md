@@ -10,4 +10,5 @@
 * [Processing](processing.md)
    * Getting Started
    * Built-in Variables
+   * Custom Variables
 
