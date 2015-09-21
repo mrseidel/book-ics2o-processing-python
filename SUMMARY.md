@@ -20,7 +20,7 @@
    * [Conditional Statements](processing_conditional_statements.md)
    * [Repetition Structures](processing_repetition_structures.md)
 * [Python](python.md)
-   * Getting Started
+   * [Getting Started](python_getting_started.md)
    * Variables
    * Boolean Expressions
    * Conditional Statements
