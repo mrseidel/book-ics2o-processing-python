@@ -4,6 +4,7 @@
 * [Hardware](hardwaremd.md)
    * Motherboard
    * CPU (Central Processing Unit)
+   * Memory
 * [Operating Systems](operating_systems.md)
    * Desktop Operating Systems
    * Mobile Operating Systems
