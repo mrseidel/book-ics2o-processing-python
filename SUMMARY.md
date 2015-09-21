@@ -22,7 +22,7 @@
    * [Boolean Expressions](Processing/processing_boolean_expressions.md)
    * [Conditional Statements](Processing/processing_conditional_statements.md)
    * [Repetition Structures](Processing/processing_repetition_structures.md)
-* [Python](python.md)
+* [Python](Python/python.md)
    * [Getting Started](python_getting_started.md)
    * [Variables](python_variables.md)
    * [Boolean Expressions](python_boolean_expressions.md)
