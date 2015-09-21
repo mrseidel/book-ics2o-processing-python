@@ -18,4 +18,5 @@
    * Getting Started
    * Variables
    * Boolean Expressions
+   * Conditional Statements
 
