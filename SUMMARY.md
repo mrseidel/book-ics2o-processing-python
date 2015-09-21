@@ -6,6 +6,7 @@
    * [Processor](hardware_processor.md)
    * [Memory](hardware_memory.md)
    * Input Devices
+   * Output Devices
 * [Operating Systems](operating_systems.md)
    * [Desktop Operating Systems](OS_desktop_operating_systems.md)
    * [Mobile Operating Systems](OS_mobile_operating_systems.md)
