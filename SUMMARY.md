@@ -16,4 +16,5 @@
    * Repetition Structures
 * [Python](python.md)
    * Getting Started
+   * Variables
 
