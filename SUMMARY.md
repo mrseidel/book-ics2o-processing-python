@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Hardware](hardwaremd.md)
+   * Motherboard
 * [Operating Systems](operating_systems.md)
    * Desktop Operating Systems
    * Mobile Operating Systems
