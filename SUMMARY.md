@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Hardware](hardwaremd.md)
    * [Motherboard](hardware_motherboard.md)
-   * [CPU (Central Processing Unit)](hardware_cpu_central_processing_unit.md)
+   * [Processor](hardware_processor.md)
    * Memory
 * [Operating Systems](operating_systems.md)
    * Desktop Operating Systems
