@@ -17,4 +17,5 @@
 * [Python](python.md)
    * Getting Started
    * Variables
+   * Boolean Expressions
 
