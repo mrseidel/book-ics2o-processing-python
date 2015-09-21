@@ -12,7 +12,7 @@
    * [Desktop Operating Systems](Operating_Systems/OS_desktop_operating_systems.md)
    * [Mobile Operating Systems](Operating_Systems/OS_mobile_operating_systems.md)
 * [Networking](Other Topics/networking.md)
-* [Acronyms](acronyms.md)
+* [Acronyms](Other Topics/acronyms.md)
 * [Ethics](ethics.md)
 * [Environmental](environmental.md)
 * [Processing](Processing/processing.md)
