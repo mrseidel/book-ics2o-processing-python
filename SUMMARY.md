@@ -11,4 +11,5 @@
    * Getting Started
    * Built-in Variables
    * Custom Variables
+   * Conditional Statements
 
