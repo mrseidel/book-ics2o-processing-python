@@ -7,7 +7,7 @@
    * [Memory](hardware_memory.md)
 * [Operating Systems](operating_systems.md)
    * [Desktop Operating Systems](OS_desktop_operating_systems.md)
-   * Mobile Operating Systems
+   * [Mobile Operating Systems](OS_mobile_operating_systems.md)
 * [Networking](networking.md)
 * [Acronyms](acronyms.md)
 * [Ethics](ethics.md)
