@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Hardware](hardwaremd.md)
+* [Hardware](hardware.md)
    * [Motherboard](hardware_motherboard.md)
    * [Processor](hardware_processor.md)
    * [Memory](hardware_memory.md)
