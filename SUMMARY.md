@@ -13,4 +13,5 @@
    * Custom Variables
    * Conditional Statements
    * Repetition Structures
+   * Boolean Expressions
 
