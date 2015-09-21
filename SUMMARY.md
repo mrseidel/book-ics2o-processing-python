@@ -11,7 +11,7 @@
    * Getting Started
    * Built-in Variables
    * Custom Variables
+   * Boolean Expressions
    * Conditional Statements
    * Repetition Structures
-   * Boolean Expressions
 
