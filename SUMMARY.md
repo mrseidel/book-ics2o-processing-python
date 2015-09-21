@@ -13,7 +13,7 @@
    * [Mobile Operating Systems](Operating_Systems/OS_mobile_operating_systems.md)
 * [Networking](Other Topics/networking.md)
 * [Acronyms](Other Topics/acronyms.md)
-* [Ethics](ethics.md)
+* [Ethics](Other Topics/ethics.md)
 * [Environmental](environmental.md)
 * [Processing](Processing/processing.md)
    * [Getting Started](Processing/processing_getting_started.md)
