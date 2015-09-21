@@ -21,7 +21,7 @@
    * [Repetition Structures](processing_repetition_structures.md)
 * [Python](python.md)
    * [Getting Started](python_getting_started.md)
-   * Variables
+   * [Variables](python_variables.md)
    * Boolean Expressions
    * Conditional Statements
    * Repetition Structures
