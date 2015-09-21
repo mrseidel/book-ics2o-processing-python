@@ -24,5 +24,5 @@
    * [Variables](python_variables.md)
    * [Boolean Expressions](python_boolean_expressions.md)
    * [Conditional Statements](python_conditional_statements.md)
-   * Repetition Structures
+   * [Repetition Structures](python_repetition_structures.md)
 
