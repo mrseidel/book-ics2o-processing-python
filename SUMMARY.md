@@ -22,7 +22,7 @@
 * [Python](python.md)
    * [Getting Started](python_getting_started.md)
    * [Variables](python_variables.md)
-   * Boolean Expressions
+   * [Boolean Expressions](python_boolean_expressions.md)
    * Conditional Statements
    * Repetition Structures
 
