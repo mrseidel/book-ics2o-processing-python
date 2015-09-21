@@ -21,7 +21,7 @@
    * [Custom Variables](Processing/processing_custom_variables.md)
    * [Boolean Expressions](Processing/processing_boolean_expressions.md)
    * [Conditional Statements](Processing/processing_conditional_statements.md)
-   * [Repetition Structures](processing_repetition_structures.md)
+   * [Repetition Structures](Processing/processing_repetition_structures.md)
 * [Python](python.md)
    * [Getting Started](python_getting_started.md)
    * [Variables](python_variables.md)
