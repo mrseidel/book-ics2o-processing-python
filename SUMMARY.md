@@ -16,7 +16,7 @@
 * [Ethics](ethics.md)
 * [Environmental](environmental.md)
 * [Processing](Processing/processing.md)
-   * [Getting Started](processing_getting_started.md)
+   * [Getting Started](Processing/processing_getting_started.md)
    * [Built-in Variables](processing_built-in_variables.md)
    * [Custom Variables](processing_custom_variables.md)
    * [Boolean Expressions](processing_boolean_expressions.md)
