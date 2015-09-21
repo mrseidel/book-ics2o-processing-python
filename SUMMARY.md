@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Hardware](hardware.md)
-   * [Motherboard](hardware_motherboard.md)
+   * [Motherboard](Hardware/hardware_motherboard.md)
    * [Processor](hardware_processor.md)
    * [Memory](hardware_memory.md)
    * [Input Devices](hardware_input_devices.md)
