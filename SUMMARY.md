@@ -4,7 +4,7 @@
 * [Hardware](hardwaremd.md)
    * [Motherboard](hardware_motherboard.md)
    * [Processor](hardware_processor.md)
-   * Memory
+   * [Memory](hardware_memory.md)
 * [Operating Systems](operating_systems.md)
    * Desktop Operating Systems
    * Mobile Operating Systems
