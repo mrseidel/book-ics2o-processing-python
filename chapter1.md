@@ -1,3 +1,3 @@
-# First Chapter
+# Hardware
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+This chapter will include information about computer hardware
