@@ -15,4 +15,5 @@
    * Conditional Statements
    * Repetition Structures
 * [Python](python.md)
+   * Getting Started
 
