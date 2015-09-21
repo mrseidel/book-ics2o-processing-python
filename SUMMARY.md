@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Hardware](hardware.md)
 * [Operating Systems](operating_systems.md)
+   * Desktop Operating Systems
 * [Networking](networking.md)
 * [Acronyms](acronyms.md)
 * [Ethics](ethics.md)
