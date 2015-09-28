@@ -41,4 +41,4 @@ In a tree topology, there is a single line that acts as a backbone to the system
 ####Sources
 The first 3 topology images (linear/bus, ring, and star) were found on the [Wikipedia page for network topologies](https://en.wikipedia.org/wiki/Network_topology). _Retrieved Sept 21st, 2015_
 
-The final image for the tree topology was found on  [this site](http://northern.lkdsb.net/Kedwell/ICS2O/Unit_Hardware/Network%20Topologies.htm). _Retrieved Sept 21st, 2015_
+The image for the tree topology was found on  [this site](http://northern.lkdsb.net/Kedwell/ICS2O/Unit_Hardware/Network%20Topologies.htm). _Retrieved Sept 21st, 2015_
