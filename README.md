@@ -18,4 +18,4 @@ This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attrib
 
 "Python" and the Python logo used in this book are registered trademarks of the Python Software Foundation.<br/>
 "Java" is a registered trademark of Oracle and/or its affiliates.<br/>
-"Processing" is an open-sourced programming language.  More information can be found [here](https://processing.org/copyright.html) regarding copyright information.
+"Processing" is an open-sourced programming language.  More information can be found [here](https://processing.org/copyright.html) regarding copyright.
