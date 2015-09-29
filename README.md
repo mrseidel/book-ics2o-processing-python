@@ -1,4 +1,4 @@
-ICS2O Textbook Using Processing and Python
+Introduction to Computer Studies Using Processing and Python
 =======
 
 This textbook is aimed at the Introduction to Computer Studies course (ICS2O), based on the [Ontario Computer Studies Curriculum](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf).
