@@ -15,3 +15,7 @@ This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attrib
 [All code samples included in this text, and in the online repository, are licensed under the GPL Version 3 License](http://www.gnu.org/licenses/gpl.html)
 
 [All licensing herein falls under Free Cultural Works](http://freedomdefined.org/Definition)
+
+"Python" and the Python logo used in this book are registered trademarks of the Python Software Foundation.<br/>
+"Java" is a registered trademark of Oracle and/or its affiliates.<br/>
+"Processing" is an open-sourced programming language.  More information can be found [here](https://processing.org/copyright.html) regarding copyright information.
