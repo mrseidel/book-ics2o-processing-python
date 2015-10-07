@@ -1,2 +1,0 @@
-# SDLC and Flowcharting
-
