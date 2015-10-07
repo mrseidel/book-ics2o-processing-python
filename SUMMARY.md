@@ -16,7 +16,7 @@
 * [Ethics](Other Topics/ethics.md)
 * [Environmental](Other Topics/environmental.md)
 * [SDLC and Flowcharting](Other Topics/sdlc_and_flowcharting.md)
-   * SDLC
+   * [SDLC](Other Topics/sdlc.md)
    * Flowcharting
 * [Processing](Processing/processing.md)
    * [Getting Started](Processing/processing_getting_started.md)
