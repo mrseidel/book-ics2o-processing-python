@@ -15,6 +15,7 @@
 * [Acronyms](Other Topics/acronyms.md)
 * [Ethics](Other Topics/ethics.md)
 * [Environmental](Other Topics/environmental.md)
+* [SDLC and Flowcharting](sdlc_and_flowcharting.md)
 * [Processing](Processing/processing.md)
    * [Getting Started](Processing/processing_getting_started.md)
    * [Built-in Variables](Processing/processing_built-in_variables.md)
@@ -28,5 +29,4 @@
    * [Boolean Expressions](Python/python_boolean_expressions.md)
    * [Conditional Statements](Python/python_conditional_statements.md)
    * [Repetition Structures](Python/python_repetition_structures.md)
-* [SDLC and Flowcharting](sdlc_and_flowcharting.md)
 
