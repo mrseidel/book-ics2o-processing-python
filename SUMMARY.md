@@ -17,6 +17,7 @@
 * [Environmental](Other Topics/environmental.md)
 * [SDLC and Flowcharting](Other Topics/sdlc_and_flowcharting.md)
    * SDLC
+   * Flowcharting
 * [Processing](Processing/processing.md)
    * [Getting Started](Processing/processing_getting_started.md)
    * [Built-in Variables](Processing/processing_built-in_variables.md)
