@@ -15,7 +15,8 @@
 * [Acronyms](Other Topics/acronyms.md)
 * [Ethics](Other Topics/ethics.md)
 * [Environmental](Other Topics/environmental.md)
-* [SDLC and Flowcharting](./Other Topics/sdlc_and_flowcharting.md)
+* [SDLC and Flowcharting](Other Topics/sdlc_and_flowcharting.md)
+   * SDLC
 * [Processing](Processing/processing.md)
    * [Getting Started](Processing/processing_getting_started.md)
    * [Built-in Variables](Processing/processing_built-in_variables.md)
