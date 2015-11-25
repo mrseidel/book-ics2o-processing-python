@@ -5,63 +5,54 @@ Below are explanations and sample programs to show the basics of Python regardin
 
 ###Documentation & Mathematics
 
-* Every one of your programs should always include a header.  A header provides some basic information about your program including who the author is, the date the program was last worked on, the filename, and a description of the program you are creating.  
+Every one of your programs should always include a header.  A header provides some basic information about your program including: who the author is, the date the program was last worked on, the file name, and a description of the program you are creating. A sample header is provided below:
 ```python
 # author: Jane Doe
 # date: 2013-03-26
 # filename: printName.py
 # description: prints user’s name to the screen
 ```
+A basic program in Python can complete various calculations.  Below are some examples of programs.  Any line beginning with a ```>>>```is an output line after running the given program.
 
-* Create a program that prints out your name using __concatenation__.  An example of how concatenation works is below.  Save the file as "HelloWorld.py"
-```python
-print ('Mr.' + 'Seidel')
+####Addition:
 
->>> Mr. Seidel
-```
-
-* Create a program that calculates the addition of 5 and 6.  An example is below.  Save the file as '001.py'.
 ```python
 print (2 + 1)
 
 >>> 3
 ```
 
-* Create a program that calculates the sum (addition) of 5, 6, and 7.4, including some text explaining what you are doing.  An example is below.  Save the file as '002.py'.
-```python
-print ('The sum of 1, 2, and 3 is: ' + str(1 + 2 + 3))
-                                      #the str() forces the information inside the parentheses to become a string
+####Subtraction:
 
->>> The sum of 1, 2, and 3 is: 6
-```
-
-* Create a program that calculates the difference (subtraction) of 4 and 2.2.  An example is below.  Save the file as '003.py'
 ```python
 print (2 - 1)
 
 >>> 1
 ```
 
-* Create a program that calculates the product (multiplication) of 2.2 and 3.4.  An example is below.  Save the file as '004.py'
+####Multiplication:
 ```python
 print (4 * 5)
 
 >>> 20
 ```
 
-* Create a program that calculates the quotient (division) of 4.4 and 2.21.  An example is below.  Save the file as '005.py'
+####Division:
 ```python
 print (3 / 2)
 
 >>> 1.5
 ```
 
-* Create a program that calculates the **integer** quotient (division) of 15 and 2.  An example is below.  Save the file as '006.py'.  In your file, leave a comment explaining why you believe the answer is what it is.
+####Integer Division
+For integer division, the program will **truncate** the answer at the decimal point.
 ```python
 print (4 // 2)
 
 >>> 2
 ```
+
+
 
 * Create a program that calculates 5 squared (5²).  An example is below.  Save the file as '007.py'.
 ```python
