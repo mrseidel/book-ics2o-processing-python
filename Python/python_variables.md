@@ -15,7 +15,6 @@ Every one of your programs should always include a header.  A header provides so
 A basic program in Python can complete various calculations.  Below are some examples of programs.  Any line beginning with a ```>>>```is an output line after running the given program.
 
 ####Addition:
-
 ```python
 print (2 + 1)
 
@@ -23,7 +22,6 @@ print (2 + 1)
 ```
 
 ####Subtraction:
-
 ```python
 print (2 - 1)
 
@@ -52,14 +50,14 @@ print (4 // 2)
 >>> 2
 ```
 
-
-
-* Create a program that calculates 5 squared (5²).  An example is below.  Save the file as '007.py'.
+####Powers
 ```python
 print (2 ** 3)
 
 >>> 8
 ```
+
+
 
 * Create a program that uses order of operation in order to calculate an answer.  Your program should print out the equation, and the calculated answer to the equation.  Your equations to work with are below, and an example is just below that as well.  Save the file as '008.py'
   * 2 + 4 x 5
