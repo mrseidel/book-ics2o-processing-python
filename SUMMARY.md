@@ -28,7 +28,7 @@
 * [Python](Python/python.md)
    * [Getting Started](Python/python_getting_started.md)
    * [Variables](Python/python_variables.md)
+   * [Getting Input](Python/python_getting_input.md)
    * [Conditional Statements](Python/python_conditional_statements.md)
    * [Repetition Structures](Python/python_repetition_structures.md)
-   * [Getting Input](Python/python_getting_input.md)
 
