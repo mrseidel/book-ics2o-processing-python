@@ -57,9 +57,7 @@ print (2 ** 3)
 >>> 8
 ```
 
-
-
-* Create a program that uses order of operation in order to calculate an answer.  Your program should print out the equation, and the calculated answer to the equation.  Your equations to work with are below, and an example is just below that as well.  Save the file as '008.py'
+Using the above examples as an exercise create a program that uses order of operation in order to calculate an answer.  Your program should print out the equation, and the calculated answer to the equation.  Your equations to work with are below, and an example is just below that as well.
   * 2 + 4 x 5
   * 2 x 6 - 6 / 2
   * 9 + 2
@@ -71,7 +69,7 @@ print ('1 + 2 x 3 / (4 + 2) = ' + str(1+2*3/(4+2)))
 >>> 1 + 2 x 3 / (4 + 2) = 2
 ```
 
-####Variables
+###Variables
 
 Variable store data in temporary locations in memory.  The types of data they can store include numbers, text, and beyond.  Variable vary (hence their name) and are not constant as the program plays out.  Variable names can contain characters, digits, and underscores, but should **always** be named something that is understandable to what the variable is doing.  When comparing variables named "n" and "numberOfCars", it is much easier to tell what the variable is doing based on having the full word available.  A naming convention we will be using in this class for variables is called "Camel Case", where each new "word" in a variable's name would start with a capital letter (like the example "numberOfCars").
 
