@@ -1,6 +1,6 @@
 #Keyboard Input
 
-Creating variables that never change seems very limiting.  Most programs do not just run on their own, and request input from the user to get values.  See examples below on how to give values to a variable based on user input.
+Creating variables that never change seems very limiting.  Most programs do not just run on their own.  Usually they will request input from the user, either in the form of keyboard input (shown here), or file input.  See examples below on how to give values to a variable based on user keyboard input.
 
 ```python
 #Getting a string value from the user
