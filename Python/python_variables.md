@@ -64,7 +64,7 @@ print ('Hello, ' + name + '.  I noticed that you are ' + str(age) + ' years old,
 
 * Create a program that prompts for the length, width, and height of a box.  Calculate and output the surface are and the volume of this box.  Save the file as 'var006.py'
 
-* Create a program that prompts for a name, address, city, country, and postal code.  Use appropriate variable names for all variables.  Print out the information as though it were an address label.  See [this](http://rlv.zcache.ca/canada_maple_leaf_flag_gray_and_black_design_label-ra2922e7f29604aa5af6d84b0298c203b_v1130_8byvr_324.jpg) image as a reference if you don't know how the wording should be set up.  Save the file as 'var007.py'
+* Create a program that prompts for a name, address, city, country, and postal code.  Use appropriate variable names for all variables.  Print out the information as though it were an address label.  See [this](http://rlv.zcache.ca/canada_maple_leaf_flag_gray_and_black_design_label-ra2922e7f29604aa5af6d84b0298c203b_v1130_8byvr_324.jpg) image as a reference if you don't know how the wording should be set up.  Save the file as 'var007.p
 
 Submissables
 ------------
