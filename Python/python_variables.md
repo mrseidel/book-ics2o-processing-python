@@ -17,6 +17,11 @@ print ("The meaning of life is ", theMeaningOfLife)
 >>>The meaning of life is 42
 ```
 
+
+
+
+
+
 * Create a program that assigns the value 42 to a variable called "theMeaningOfLife", then prints out "The meaning of life is: <value of theMeaningOfLife variable>".  See example below.  Save this file as 'var001.py'
 ```python
 numberOfCars = 3
