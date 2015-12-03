@@ -2,7 +2,7 @@
 
 ###Variables
 
-Variables store data in temporary locations in memory.  The types of data they can store include numbers, text, and beyond.  Variables vary (hence their name) and are not constant as the program plays out.  Variable names can contain characters, digits, and underscores, but should **always** be named something that is clear and understandable.  When comparing variables named "n" and "numberOfCars", it is much easier to tell what the variable is doing based on having the full word available.  A naming convention we will be using in this class for variables is called "Camel Case", where each new "word" in a variable's name would start with a capital letter (like the example "numberOfCars").
+Variables store data in temporary locations in memory.  The types of data they can store include numbers, text, and beyond.  Variables vary (hence their name) and are not constant as the program plays out.  Variable names can contain characters, digits, and underscores, but should **always** be named something that is clear and understandable.  When comparing variables named "n" and "numberOfCars", the latter is easier to know what its purpose is.  A naming convention we will be using in this class for variables is called "Camel Case", where each new "word" in a variable's name would start with a capital letter (like the example "numberOfCars").
 
 To assign a value to a variable we use the "=" such as:
 ```python
