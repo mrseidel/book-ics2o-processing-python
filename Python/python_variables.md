@@ -9,6 +9,14 @@ To assign a value to a variable we use the "=" such as:
 numberOfCars = 3
 ```
 
+If we were to use a variable to print out information, we could do the following:
+```python
+theMeaningOfLife = 42
+print ("The meaning of life is ", theMeaningOfLife)
+
+>>>The meaning of life is 42
+```
+
 * Create a program that assigns the value 42 to a variable called "theMeaningOfLife", then prints out "The meaning of life is: <value of theMeaningOfLife variable>".  See example below.  Save this file as 'var001.py'
 ```python
 numberOfCars = 3
