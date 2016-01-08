@@ -6,14 +6,14 @@ There are four main operating systems that exist on a desktop: '
 * Windows Phone OS
 * BBOS (Blackberry Operating System)
 
-###Windows
+###Android OS
 
 
-###Mac OS
+###iOS
 
 
-###Linux
+###Windows Phone OS
 
 
-###BSD
+###BBOS
 
