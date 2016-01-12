@@ -10,19 +10,14 @@ numberOfCars = 3
 ```
 
 If we were to use a variable to print out information, we could do the following:
-```python
+``` python
 theMeaningOfLife = 42
 print ("The meaning of life is ", theMeaningOfLife)
 
 >>>The meaning of life is 42
 ```
 
-
-
-
-
-
-* Create a program that assigns the value 42 to a variable called "theMeaningOfLife", then prints out "The meaning of life is: <value of theMeaningOfLife variable>".  See example below.  Save this file as 'var001.py'
+Create a program that assigns the value 42 to a variable called "theMeaningOfLife", then prints out "The meaning of life is: <valueOfTheMeaningOfLifeVariable>".  See example below.  Save this file as 'var001.py'
 ```python
 numberOfCars = 3
 print ('The number of cars in the parking lot is' + str(numberOfCars))
