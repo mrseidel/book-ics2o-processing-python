@@ -1,8 +1,6 @@
 # SDLC
 
-![](../img/SDLC.jpg)
-
-The above image was taken from: http://upload.wikimedia.org/wikipedia/commons/1/19/SDLC_-_Software_Development_Life_Cycle.jpg
+<a href="http://upload.wikimedia.org/wikipedia/commons/1/19/SDLC_-_Software_Development_Life_Cycle.jpg" width="25%"><img src="../img/SDLC.jpg" alt="Software Development Life Cycle"></a>
 
 Within this course we will be making use of the Software/System Development Life Cycle (SDLC). For the majority of the projects in this course you will be required to analyse the given information, go through the creation of a design (graphical interface or not), **_before_** proceeding into the coding portion of your work.
 
