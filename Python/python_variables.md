@@ -17,4 +17,6 @@ print ('The number of cars in the parking lot is' + str(numberOfCars))
 >>> The number of cars in the parking lot is 3
 ```
 
+###More on the str() function
+
 The ```str()``` function changes whatever data type you are using (for example, an integer, or float value) into a string.  A string is used whenever you print off information to the screen.  For strings, whenever you add them using the ```+``` symbol, it actually _[concatenates](https://en.wikipedia.org/wiki/Concatenation)_ the data.
