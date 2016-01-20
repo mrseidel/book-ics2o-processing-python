@@ -21,16 +21,8 @@ print ('Hello, ' + name + '.  I noticed that you are ' + str(age) + ' years old,
 >>> Hello, Mr. Seidel.  I noticed that you are 100 years old, and have a salary of 1000.
 ```
 
-* Create a program that asks the user for 3 integer inputs, then output the sum of the numbers.  See example below.  Save the file as 'var004.py'
+In the example above, we use ```input()``` to get information from the user.  Inside the brackets of the function is the question that pops up to prompt the user on what information we are looking for.
 
-```python
-#code omitted, only sample output given
+###Numeric Conversion of Strings
 
->>> The sum of 3, 4, and 6 is 13
-```
-
-* Create a program that asks for your weight in kilograms, then outputs your equivalent weight in pounds.  Save the file as 'var005.py'
-
-* Create a program that prompts for the length, width, and height of a box.  Calculate and output the surface are and the volume of this box.  Save the file as 'var006.py'
-
-* Create a program that prompts for a name, address, city, country, and postal code.  Use appropriate variable names for all variables.  Print out the information as though it were an address label.  See [this](http://rlv.zcache.ca/canada_maple_leaf_flag_gray_and_black_design_label-ra2922e7f29604aa5af6d84b0298c203b_v1130_8byvr_324.jpg) image as a reference if you don't know how the wording should be set up.  Save the file as 'var007.py'
+You'll also notice some other new functions that are included above: ```int()``` and ```float()```.  These functions will convert the information inside their brackets into their respective number format (```int()``` turns the value into an integer if possible, and ```float()``` turns the value into a float number if possible).  If for some reason, the values in the brackets are not numeric in nature, then the function will cause an error to occur.
