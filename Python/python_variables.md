@@ -17,34 +17,4 @@ print ('The number of cars in the parking lot is' + str(numberOfCars))
 >>> The number of cars in the parking lot is 3
 ```
 
-
-
-
-
-
-* Modify program 'var001.py' so that it prints out theMeaningOfLife * 2.  Save the file as 'var002.py'.
-
-* Create a program that has three variables (a, b, c) that contain the values (2.2, 3.3, 4.2) respectively.  Print the sum of all three values.  See example below. Save the file as 'var003.py'
-```python
-a = 1
-b = 2
-c = 3
-
-print ('a + b + c = ' + str(a + b + c))
-
->>> a + b + c = 6
-```
-
-
-
-Submissables
-------------
-Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.
-
-Due Date(s)
-----------
-Marking will begin on December 1st
-
-
-#####Credits
-Most of the work here is based on the work written by Peter Beens found throughout [this website](http://www2.beens.org/ics/python)
+The ```str()``` function changes whatever data type you are using (for example, an integer, or float value) into a string.  A string is used whenever you print off information to the screen.  For strings, whenever you add them using the ```+``` symbol, it actually _[concatenates](https://en.wikipedia.org/wiki/Concatenation)_ the data.
