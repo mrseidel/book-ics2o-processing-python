@@ -81,12 +81,14 @@ We tend to use counted loops when we know how many times we have to iterate ahea
 
 ####Exercises to try
 
-1. Create a program using a _for_ loop that prints out a table of temperature conversions from 0 Celsius up to 100 Celsius, and also prints out the equivalent Fahrenheit temperatures.  Have this table only print out every 5th degree.  Save your work as 'iter001.py'.  See example below for what the input and output would look like.
-2. Create a program that uses _while_ loops and _for loops_.  You are to take in two integer values, where the first value is always smaller than the second.  Once this has been established, your program should pass these two values on to a function that calculates the addition of all numbers within that range.  Once your function has this calculated, return the value and print it to the screen. Save your work as 'iter002.py'.  See example below for what the input and output would look like.
-3. Create a program that takes in two numbers and then displays a menu of options.  Your menu will have 5 choices to choose from: addition, subtraction, multiplication, division, or exit.  Based on the user's choice, have the computer compute the result, display it to the screen, and then loop around to get two new numbers and display the menu again.  If the user chooses exit, have the program end.  Save this file as 'iter003.py'
+1. Create a program using a _for_ loop that prints out a table of temperature conversions from 0 Celsius up to 100 Celsius, and also prints out the equivalent Fahrenheit temperatures.  Have this table only print out every 5th degree. 
+
+2. Create a program that uses _while_ loops and _for loops_.  You are to take in two integer values, where the first value is always smaller than the second.  Once this has been established, your program should pass these two values on to a function that calculates the addition of all numbers within that range.  Once your function has this calculated, return the value and print it to the screen.
+
+3. Create a program that takes in two numbers and then displays a menu of options.  Your menu will have 5 choices to choose from: addition, subtraction, multiplication, division, or exit.  Based on the user's choice, have the computer compute the result, display it to the screen, and then loop around to get two new numbers and display the menu again.  If the user chooses exit, have the program end.
 
 ```python
-#Example output for iter001.py
+#Example output for the temperature conversion program
 
 >>> 0C = 32F
 >>> 5C = ...
@@ -95,14 +97,14 @@ We tend to use counted loops when we know how many times we have to iterate ahea
 >>> 100C = ...
 
 
-#Example input/output for iter002.py
+#Example input/output for addition program
 >>> Enter the first number: 5
 >>> Enter the second number: 10
 
 >>> The total calculated value is: 45
 
 
-#Example input/output for iter003.py
+#Example input/output for the menu-based program
 Enter a number: 10
 Enter another number: 5
 
