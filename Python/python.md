@@ -2,6 +2,8 @@
 
 This chapter will include information about programming using [Python](http://www.python.org).
 
+* Documentation and 
+
 
 #Using the Integrated Development Environment (IDE) for Python
 
