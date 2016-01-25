@@ -15,6 +15,7 @@
 * [Acronyms](Other Topics/acronyms.md)
 * [Ethics](Other Topics/ethics.md)
 * [Environmental](Other Topics/environmental.md)
+* [Social Impact Tools](Other Topics/social_impact_tools.md)
 * [SDLC and Flowcharting](Other Topics/sdlc_and_flowcharting.md)
    * [SDLC](Other Topics/sdlc.md)
    * [Flowcharting](Other Topics/flowcharting.md)
@@ -31,5 +32,4 @@
    * [Keyboard Input](Python/python_keyboard_input.md)
    * [Conditional Statements](Python/python_conditional_statements.md)
    * [Repetition Structures](Python/python_repetition_structures.md)
-* [Social Impact Tools](Other Topics/social_impact_tools.md)
 
