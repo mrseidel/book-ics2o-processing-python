@@ -1,6 +1,6 @@
 # Acronyms
 
-This chapter will include information about the acronyms used in this course.
+This chapter will include information about the acronyms that are possibly used in this course.
 
 
 ##Hardware related
