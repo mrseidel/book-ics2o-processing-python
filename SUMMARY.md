@@ -31,5 +31,5 @@
    * [Keyboard Input](Python/python_keyboard_input.md)
    * [Conditional Statements](Python/python_conditional_statements.md)
    * [Repetition Structures](Python/python_repetition_structures.md)
-* Social Impact Tools
+* [Social Impact Tools](Other Topics/social_impact_tools.md)
 
