@@ -40,7 +40,7 @@ A parallelogram is used to show input or output. Examples of input are receiving
 Check out the following links for some sample flowcharts:
 * <a href="../img/flow_example_lamp.png">Sample 1</a>   
   * _http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/500px-LampFlowchart.svg.png_
-* <a href="../img/flow_example_software.jpgg">Sample 2</a> 
+* <a href="../img/flow_example_software.jpg">Sample 2</a> 
   * _http://www.farshadoo.com/p/diagram-ring/images/diagram-sample1.jpg_
 * <a href="../img/flow_example_dare.png">Sample 3</a>  
   * _http://www.edrawsoft.com/images/examples/makeflowchart.png_
